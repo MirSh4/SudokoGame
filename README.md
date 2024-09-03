@@ -38,3 +38,13 @@ This project is a team-developed Sudoku game built with Python and Pygame. It pr
 ### 5. **Restart Feature**
    - A restart option will be added, allowing players to reset the puzzle at any time. This will be useful for players who want to start fresh or challenge themselves to complete the puzzle more efficiently.
 
+## Team Members
+Salma Essam Mohamed Hamad
+
+Gehad Emad Mohamed Mohamed
+
+Mirna Sherif Zayed
+
+Alaa Atef Mustafa
+
+Haneen Alaa
